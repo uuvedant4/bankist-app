@@ -3,7 +3,7 @@ A fictious banking application made with pure html, css and javascript.
 
 
 
-*Use login details:*
+>*Use login details:*
 *username: vy*
 *password: 1111*
 
