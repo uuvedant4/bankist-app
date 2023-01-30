@@ -1,4 +1,4 @@
-## *Bankist*
+# *Bankist*
 A fictious banking application made with pure html, css and javascript.
 
 
